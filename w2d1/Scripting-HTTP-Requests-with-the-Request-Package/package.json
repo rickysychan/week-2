@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rizelmine17/week-2/tree/master/w2d1/Scripting-HTTP-Requests-with-the-Request-Package"
+  },
   "author": "Ricky",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
